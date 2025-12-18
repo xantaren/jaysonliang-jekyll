@@ -1,0 +1,29 @@
+title: Jayson Liang | 梁晉偉
+author: Jayson Liang
+email: xantaren@yahoo.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Jayson Liang is a backend engineer with extensive prior experiences in cross-platform software development. He currently dedicates his craft to developing robust e-commerce solutions.
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jaysonliang.com" # the base hostname & protocol for your site
+domain: jaysonliang.com
+# twitter_username: jaysonliang
+github_username: xantaren
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be terminated from the standing
+# list of default excludes.
+#
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
